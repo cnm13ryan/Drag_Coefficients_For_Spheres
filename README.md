@@ -15,28 +15,28 @@
 * [Credits](##Credits)
 * [License](##License)
 
-## How to install and run
+##How to install and run
 
-## How to use the project
+##How to use the project
 
-## Aim and objectives
+##Aim and objectives
 
-## Background theory
+##Background theory
 
-## Apparatus and procedure
+##Apparatus and procedure
 
-## Main results
+##Main results
 
-## Error analysis
+##Error analysis
 
-## Conclusions
+##Conclusions
 
-## References
+##eferences
 
-## Credits
+##Credits
 
-## License
+##License
 
-## How to contribute to the project
+##How to contribute to the project
 
-## Tests
+##Tests
