@@ -1,8 +1,19 @@
 # Experimentally Determine Drag Coefficients For Spheres
 
-# Project Description
+## Project Description
 
-# Table of Contents
+## Table of Contents
+* How to install and run
+* How to use the proejct
+* Aim and Objectives
+* Background Theory
+* Apparatus and procedure
+* Main results
+* Error analysis
+* Conclusions
+* References
+* Credits
+* License
 
 ## How to install and run
 
