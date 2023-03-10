@@ -1,4 +1,4 @@
-# Experimentally Determine Drag Coefficients For Spheres
+# Drag Coefficients Of Spheres
 
 ## Project Description
 
